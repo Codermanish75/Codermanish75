@@ -1,4 +1,18 @@
+<!-- Name and Desc -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=47ed92&center=true&vCenter=true&width=450&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Manish+Singh" alt="Typing SVG">
+</h1>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3a9cf2&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+Software+Developer+from+India;I+Love+Building+Awesome+Things!;Open+Source+%7C+Web+%7C+Cloud+%7C+Tech+Enthusiast" alt="Typing SVG">
+</h3>
+
+<!-- Profile counts -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ak-vishwakarma-01&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+ </p>
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manish-singh-6b8060285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishsingh7518@gmail.com) 
 
